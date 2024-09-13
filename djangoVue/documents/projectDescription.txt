@@ -1,0 +1,10 @@
+Project Overview
+For this project, you’ll create a small blogging application with some rudimentary features:
+
+Authors can write many posts.
+Posts can have many tags and can be either published or unpublished.
+You’ll build the back end of this blog in Django, complete with an admin for adding new blog content. Then you’ll expose the content data as a GraphQL API and use Vue to display that data in the browser.
+
+You’ll accomplish this in several high-level steps. At the end of each step, you’ll find a link to the source code for that stage of the project.
+
+If you’re curious about how the source code for each step looks, then you can click the link below:

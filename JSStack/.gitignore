@@ -1,10 +1,12 @@
 # Node.js dependencies
 /node_modules
 
+# virtual env
+djvenv/
 # Build output
 /build
 /dist
-djangoVue/djangovenv/
+djvenv/
 # Environment variables
 .env
 
